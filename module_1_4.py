@@ -1,4 +1,4 @@
-my_string = input('Введите любое слово: ')
+my_string = input('Введите несколько слов, через пробел: ')
 quantity = len(my_string)
 print('Количество введённых символов:', quantity)
 print('Верхний регистр:', my_string .upper())
